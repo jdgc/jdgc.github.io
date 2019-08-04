@@ -1,6 +1,6 @@
 # Jekyll configuration
 
-name: Blog Name
+name: jdgc
 description: Software Developer
 
 # Url is currently only used only for the RSS feed in feed.xml
@@ -23,10 +23,6 @@ share:
 
 social:
   github: jdgc
-  stackoverflow: ''
-  linkedin:
-  instagram: ''
-  lastfm: ''
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
