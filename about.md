@@ -5,6 +5,6 @@ title: About
 ---
 
 # About 
-just some guy on the internet
+runecaster
 
 email: <james.ed.dunn@gmail.com>
