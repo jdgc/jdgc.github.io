@@ -4,7 +4,8 @@ title: Studying Japanese after the JLPT N1
 date:   2019-08-04 6:00
 description: What to do when there are no more tests to take
 tags: japanese
-comments: true
+comments: truejdgcj
+
 ---
 
 If you have had the experience of learning Japanese in a classroom setting, you probably have had some exposure to the Japanese Language Proficiency Test or JLPT. If you are anything like me, you probably used the few levels of the test as a benchmark to guide your own progress through the language. Now, you have finally attained the highest level of language competency that the bureaucracy can measure. You probably spend your free time lording over N3 peasants on internet forums and boasting about watching cartoons without subtitles.
@@ -38,7 +39,7 @@ Of course, when the aim is fluency, language knowledge is only part of the puzzl
 Hopefully if you have reached an advanced level of Japanese you are able to handle most daily conversations, but it can become easy to fall into the trap of never pushing yourself to verbalize complex or nuanced thoughts. As you expose yourself to more native material while searching for new vocab, make sure to actively attempt to use the language you learn in the appropriate context.
 You can usually tell if you have the right idea by watching the reaction of the person listening to you. (The blank stare of confusion and pity means you messed up) This kind of field test is a useful sanity check for some more obscure vocabulary. I've had the experience more than once of using a new word only to be told that an alternative is much more common in regular conversation.
 
-While progress is more difficult to quantify, trying to hit a monthly goal for new vocabulary is at least a good motivator. The road to real mastery is unending, but years from now I will be able to confidently say that I did a lot of flashcards. And if all goes well, one day I will be able to walk into a small town anime fanclub and, having reached a level beyond even the JLPT N1, claim my rightful status as a god.
+While progress is more difficult to quantify, trying to hit a monthly goal for new vocabulary is at least a good motivator. The road to real mastery is unending, but years from now you will finally be able to walk into a small town anime fanclub and, having reached a level beyond even the JLPT N1, claim your rightful status as a god.
 
 
 
