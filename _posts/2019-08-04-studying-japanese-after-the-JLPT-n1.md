@@ -4,6 +4,7 @@ title: Studying Japanese after the JLPT N1
 date:   2019-08-04 6:00
 description: What to do when there are no more tests to take
 tags: japanese
+comments: true
 ---
 
 If you have had the experience of learning Japanese in a classroom setting, you probably have had some exposure to the Japanese Language Proficiency Test or JLPT. If you are anything like me, you probably used the few levels of the test as a benchmark to guide your own progress through the language. Now, you have finally attained the highest level of language competency that the bureaucracy can measure. You probably spend your free time lording over N3 peasants on internet forums and boasting about watching cartoons without subtitles.
