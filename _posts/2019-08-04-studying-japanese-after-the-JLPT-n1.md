@@ -4,7 +4,7 @@ title: Studying Japanese after the JLPT N1
 date:   2019-08-04 6:00
 description: What to do when there are no more tests to take
 tags: japanese
-comments: truejdgcj
+comments: true
 
 ---
 
