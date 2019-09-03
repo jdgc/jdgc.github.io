@@ -2,7 +2,7 @@
 layout: post
 title: 'New Words: August 2019'
 date:   2019-09-03 6:00
-description: list of the japanese words I came this month and didn't know
+description: list of the new japanese words I found this month
 tags: japanese life
 comments: true
 ---
